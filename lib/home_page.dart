@@ -7,7 +7,7 @@ class HomePage extends StatefulWidget {
 
 class HomePageState extends State<HomePage> {
   var num_1 = 0, num_2 = 0, result = 0;
-  // Para coger los datos de los campos d
+  // Para coger los datos de los campos
   final TextEditingController t1 = new TextEditingController(text: "0");
   final TextEditingController t2 = new TextEditingController(text: "0");
 
