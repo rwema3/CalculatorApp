@@ -8,4 +8,4 @@ class MyApp extends StatelessWidget {
     // Creamos la Aplicacion
     return new MaterialApp(
       title: "Calculator Flutter",
-      theme: new ThemeData(primarySwatch: Colors.green
+      theme: new ThemeData(primarySwatch: Colors.gree
