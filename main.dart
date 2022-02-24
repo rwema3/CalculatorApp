@@ -12,3 +12,4 @@ class MyApp extends StatelessWidget {
       home: new HomePage() // Creamos un nuevo widget
     );
   
+}
