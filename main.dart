@@ -11,5 +11,5 @@ class MyApp extends StatelessWidget {
       theme: new ThemeData(primarySwatch: Colors.green),
       home: new HomePage() // Creamos un nuevo widget
     );
-  
+  }
 }
